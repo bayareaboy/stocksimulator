@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://freshbox:freshboxadmin@cluster0-8beok.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken1234567"
+}
